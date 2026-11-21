@@ -7,7 +7,7 @@
 **把整屋网络装进一台路由器。**
 
 [![followers](https://img.shields.io/github/followers/bluepebblex-dev?style=flat-square&color=2ea043)](https://github.com/bluepebblex-dev)
-[![repos](https://img.shields.io/github/repos/bluepebblex-dev?style=flat-square)](https://github.com/bluepebblex-dev?tab=repositories)
+[![ACE stars](https://img.shields.io/github/stars/bluepebblex-dev/openwrt-ace?style=flat-square&color=2ea043)](https://github.com/bluepebblex-dev/openwrt-ace/stargazers)
 
 </div>
 
